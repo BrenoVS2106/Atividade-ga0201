@@ -251,3 +251,16 @@ A revisão, refatoração e implementação deste template foi/é assistida por 
 
 - OpenAI Codex;
 - Github Copilot.
+
+## Apoio institucional
+
+Este projeto recebe apoio institucional do
+[Laboratório Nacional de Computação Científica (LNCC)](https://www.gov.br/lncc/pt-br),
+unidade de pesquisa do Ministério da Ciência, Tecnologia e Inovação (MCTI),
+Brasil.
+
+<p align="center">
+  <a href="https://www.gov.br/lncc/pt-br">
+    <img src="resources/logo/lncc-mcti.svg" alt="LNCC (MCTI) logo" width="820">
+  </a>
+</p>
